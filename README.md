@@ -29,9 +29,6 @@ God Reader v2 is a powerful fully Chinese e-book reader designed for Chinese use
 - **多格式支持** - 支持 TXT、EPUB、PDF 三种主流电子书格式
   - **Multiple Format Support** - Supports three mainstream e-book formats: TXT, EPUB, PDF
 
-- **字体大小调整** - 根据个人喜好调整字体大小，提供最佳阅读体验
-  - **Font Size Adjustment** - Adjust font size according to personal preference for the best reading experience
-
 - **主题切换** - 支持多种阅读主题，包括浅色、深色等模式
   - **Theme Switching** - Supports multiple reading themes, including light and dark modes
 
