@@ -6,9 +6,9 @@
 
 A fully Chinese personal e-book reader
 
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/LoF/God-Reader)
-[![Language](https://img.shields.io/badge/language-Chinese-red.svg)](https://github.com/LoF/God-Reader)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/LoF/God-Reader)
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/D1sn0oB/LoF-God_Reader_v2)
+[![Language](https://img.shields.io/badge/language-Chinese-red.svg)](https://github.com/D1sn0oB/LoF-God_Reader_v2)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/D1sn0oB/LoF-God_Reader_v2)
 
 </div>
 
